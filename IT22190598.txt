@@ -1,0 +1,5 @@
+Student number: IT22190598
+Name: Gamalath K.H.
+
+GITHUB_REPO_URL
+https://github.com/Kavinigamalath/SE4050-_Deep-Learning_Lab_01.git

@@ -1,0 +1,18 @@
+# Dependencies / virtual env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large Au nanoparticle CSV (download from Google Drive link in README)
+data/Au_nanoparticle_dataset.csv
+data/Au_nanoparticle_headerlist.pdf
+
+# Regenerated artifacts
+Pokemon_test.csv
+outputs_*.png
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+# Python dependencies for SE4050 Lab 1
+numpy
+matplotlib
+pandas
+seaborn
+jupyter
